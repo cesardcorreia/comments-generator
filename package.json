@@ -1,8 +1,10 @@
 {
   "name": "comments-generator",
-  "displayName": "comments-generator",
+  "displayName": "Comments Generator",
   "description": "Generate skeletons for comments",
   "version": "0.0.1",
+  "publisher": "cesardcorreia",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -31,5 +33,9 @@
     "mocha": "^10.2.0",
     "typescript": "^5.2.2",
     "@vscode/test-electron": "^2.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesardcorreia/comments-generator"
   }
 }
