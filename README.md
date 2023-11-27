@@ -22,3 +22,4 @@ Currently available comments styles:
     * The automatic selection should be based on this
 * Being able to type a keywork like `laravel-comment` and hit tab to execute the command
 * Remove the comment inserted alert thingy
+* Work out why logo isn't showing the the extensions store
