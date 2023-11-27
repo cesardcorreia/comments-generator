@@ -2,9 +2,9 @@
   "name": "comments-generator",
   "displayName": "Comments Generator",
   "description": "Generate skeletons for comments",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "cesardcorreia",
-  "icon": "icon.png",
+  "icon": "logo.jpeg",
   "engines": {
     "vscode": "^1.84.0"
   },
